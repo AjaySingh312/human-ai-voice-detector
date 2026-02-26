@@ -1,3 +1,32 @@
+🚀 Project README
+👥 Team Name
+
+Team courage
+
+📌 Project Name
+
+AI Voice Detection System
+
+❓ Problem Statement (P)
+
+Fake AI-generated voices are increasing rapidly and can be used for scams, impersonation, and misinformation.
+This project detects whether a voice recording is AI-generated or human using AI models.
+
+🧠 Track
+
+Open innovation
+
+👨‍💻 Team Members
+
+Ajay Singh – Frontend Developer (React) AND Backend Developer (Node.js + Express)
+
+Raghvendra Singh – Testing
+
+Pranjal Gupta – UI Designer 
+
+Vishwajit Singh –  Documentation
+
+
 # VoiceShield AI – Full-Stack Audio Authenticity Analyzer
 
 VoiceShield AI is a hackathon-ready full-stack app that helps users detect potential AI-generated voice clips.
